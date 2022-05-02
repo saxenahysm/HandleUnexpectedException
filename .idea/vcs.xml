@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AutoReadOtp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QRCodeGenerator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SwipableCardStack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/google-calendar-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mvvm_demo_pooran/MilkCollection" vcs="Git" />
+  </component>
+</project>
